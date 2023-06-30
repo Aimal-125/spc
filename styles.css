@@ -60,6 +60,7 @@ body {
 }
 .not {
     font-weight: initial;
+    color: gray;
 }
 #wimg {
     width: 100%;
