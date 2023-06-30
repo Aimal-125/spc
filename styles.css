@@ -56,6 +56,7 @@ body {
 }
 .white {
     font-weight: 800;
+    color: white;
 }
 .not {
     font-weight: initial;
